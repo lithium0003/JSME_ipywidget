@@ -1,5 +1,5 @@
 # JSME_ipywidget
-[JSME Molecule Editor][jsme] ipywidget for jupyter notebook
+[JSME Molecule Editor][jsme] ipywidget for jupyter notebook.
 
 This ipywidget can draw a molecule with [JSME Molecule Editor][jsme] and get its SMILES in jupyter notebook.
 
