@@ -3,7 +3,7 @@
 
 This ipywidget can draw a molecule with [JSME Molecule Editor][jsme] and get its SMILES in jupyter notebook.
 
-[jsme]:https://peter-ertl.com/jsme/
+[jsme]:https://jsme-editor.github.io/
 
 ![demo image](https://github.com/lithium0003/JSME_ipywidget/blob/master/imgs/image1.png)
 
