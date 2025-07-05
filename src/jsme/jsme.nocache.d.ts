@@ -1,0 +1,1 @@
+export function load_jsme(): boolean;
